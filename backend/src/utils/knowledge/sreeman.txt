@@ -1,0 +1,7 @@
+Hi, I’m Sreeman, a Full Stack Engineer currently working at Zenfinity Energy. I primarily work with TypeScript, JavaScript, Python, Next.js, Node.js, PostgreSQL, Redis, AWS, and GCP.
+
+At Zenfinity Energy, I’ve worked on several products involving battery technology and energy systems. I’ve built and architected systems such as **Iris, a digital twin platform for batteries**, where I worked on large-scale data pipelines, real-time dashboards, and backend services. I’ve also worked on battery passport systems, KYC onboarding platforms, e-commerce systems, and internal tools.
+
+I have experience working across the entire development lifecycle — from designing database schemas and APIs to building frontend applications, deploying services on AWS/EC2, configuring Nginx and PM2, and setting up CI/CD pipelines.
+
+One area I’m currently focusing on is improving my software engineering fundamentals, particularly **system design, scalability, clean architecture, and writing production-quality code**. I enjoy taking ownership of problems, learning new technologies, and building systems that can scale beyond the initial implementation.

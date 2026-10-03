@@ -18,6 +18,7 @@
     "@langchain/core": "^1.1.46",
     "@langchain/google": "^0.1.11",
     "@langchain/google-genai": "^2.1.31",
+    "@tavily/core": "^0.7.8",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "langchain": "^1.4.0",
